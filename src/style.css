@@ -44,6 +44,10 @@ button:focus {
   height: 100vh;
 }
 
+::selection {
+  background-color: #2d1950; 
+  color: white; 
+}
 
 ::-webkit-scrollbar {
   width: 7px;
